@@ -1,4 +1,4 @@
-# PRODIGY_ST_02
+# PRODIGY_ST_04
 ## **1. Test Overview**
 - **Web Page URL:** [https://shoplane-by-lassie.netlify.app/](https://shoplane-by-lassie.netlify.app/)
 - **Date of Testing:** 5th February
